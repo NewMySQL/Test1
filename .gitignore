@@ -1,0 +1,4 @@
+# <- комментарий
+logs/
+# txt files
+docs/*.txt
